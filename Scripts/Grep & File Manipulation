@@ -1,0 +1,4 @@
+#grep - to find/search for a specific word or pattern in a file
+ grep "Bangladesh" my_edits.txt
+#> is to redirect the contents or output of an operation
+grep "Bangladesh" my_edits.txt > Bangladesh.txt
