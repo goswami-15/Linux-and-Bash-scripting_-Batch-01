@@ -1,1 +1,8 @@
-
+cd -to change the directory
+pwd -to know the current / working directory
+ls -lists all the contents (directories and files) of a directory
+head -to view from the top of the file
+tail -to view from the bottom of the file
+wc - for word count
+wc -l - for line count
+* -  represents zero or more characters
