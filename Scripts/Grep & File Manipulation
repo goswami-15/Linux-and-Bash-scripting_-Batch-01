@@ -2,3 +2,12 @@
  grep "Bangladesh" my_edits.txt
 #> is to redirect the contents or output of an operation
 grep "Bangladesh" my_edits.txt > Bangladesh.txt
+#touch creates a new file
+touch new_examplefile.txt
+#vi or vim is to view and edit all the contents of a file
+vi new_examplefile.txt
+#Two modes: Insert and Edit mode. In input mode, you may input or enter content into the file. In edit mode, you can move around the file and perform actions such as deleting, copying, searching and replacing, saving etc
+#Saving and Exiting
+:q! - discard all changes, since the last save, and exit
+:w - save file but don't exit
+:wq - again, save and exit
