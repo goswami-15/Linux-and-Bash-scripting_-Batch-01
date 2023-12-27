@@ -1,0 +1,6 @@
+#less - to view a portion of a file
+less file_name
+#cat - to view files, but best for smaller file
+cat file_name
+#pipe -a mechanism for sending data from one program to another
+less file_name | head -15
