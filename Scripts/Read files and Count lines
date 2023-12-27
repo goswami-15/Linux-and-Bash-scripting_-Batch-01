@@ -1,8 +1,15 @@
-cd -to change the directory
-pwd -to know the current / working directory
-ls -lists all the contents (directories and files) of a directory
-head -to view from the top of the file
-tail -to view from the bottom of the file
-wc - for word count
-wc -l - for line count
-* -  represents zero or more characters
+#cd -to change the directory
+cd Linux_Training_Batch_01
+#pwd -to know the current / working directory
+#ls -lists all the contents (directories and files) of a directory
+ls -l
+#head -to view from the top of the file
+head -5 my_edits.txt
+#tail -to view from the bottom of the file
+tail -5 my_edits.txt
+#wc - for word count
+wc my_edits.txt
+#wc -l - for line count
+wc -l my_edits.txt
+#* -  represents zero or more characters
+wc -l *.faa
