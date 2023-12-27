@@ -11,3 +11,10 @@ vi new_examplefile.txt
 :q! - discard all changes, since the last save, and exit
 :w - save file but don't exit
 :wq - again, save and exit
+#Navigating a file in vi
+Arrow keys - move the cursor around
+nG - move to the nth line (eg 5G moves to 5th line)
+G - move to the last line
+#Deleting and Undoing
+dd - delete the current line
+u - Undo the last action (you may keep pressing u to keep undoing)
