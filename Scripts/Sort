@@ -1,3 +1,4 @@
 #sort- to sort the content of the files
 sort example_file_for_sort.txt  [ #By default, it works alphabatically]
-sort -k 2 -n example_file_for_sort.txt
+sort -k 2 -n example_file_for_sort.txt [#works in Ascending order]
+sort -k 2 -n -r example_file_for_sort.txt [#works in Descending order]
