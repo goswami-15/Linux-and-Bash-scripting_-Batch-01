@@ -21,3 +21,17 @@ G - move to the last line
 #Deleting and Undoing
 dd - delete the current line
 u - Undo the last action (you may keep pressing u to keep undoing)
+#cp -copy a file or directory
+cp new_examplefile.txt new_testfile.txt  [copying in the same directory]
+cp new_examplefile.txt destination [copying to a different location]
+#mv - to move a file or directory to a new place
+mv source destination
+#Renaming Files
+mv new_testfile.txt test_file.txt
+#rm -to remove/delete a file or non-empty directory
+rm test_file.txt
+rm -r directory_name [ # -r stands for recursive]
+rmdir empty_directory_name
+
+
+
