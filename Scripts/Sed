@@ -1,1 +1,2 @@
 #sed- to manipulate the content of a file at different level]
+sed 's/^>NC_045512\.2 Severe acute respiratory syndrome coronavirus 2/>NC_045512.2 SARS coronavirus 2/' input_fasta_file.fasta > output_fasta_file.fasta
