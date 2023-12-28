@@ -28,10 +28,14 @@ cp new_examplefile.txt destination [copying to a different location]
 mv source destination
 #Renaming Files
 mv new_testfile.txt test_file.txt
+#cat - concate or merge files
+cat HM067743.1_cds_ADQ37313.1_1.fa HM067744.1_cds_ADQ37314.1_1.fa > HM06774_cat.fa 
 #rm -to remove/delete a file or non-empty directory
 rm test_file.txt
 rm -r directory_name [ # -r stands for recursive]
 rmdir empty_directory_name
+
+
 
 
 
