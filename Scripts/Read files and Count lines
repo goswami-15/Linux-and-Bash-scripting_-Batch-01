@@ -1,8 +1,7 @@
-#cd -to change the directory
-cd Linux_Training_Batch_01
-#pwd -to know the current / working directory
-#ls -lists all the contents (directories and files) of a directory
-ls -l
+#less - to view a portion of a file
+less file_name
+#cat - to view files, but best for smaller file
+cat file_name
 #head -to view from the top of the file
 head -5 my_edits.txt
 #tail -to view from the bottom of the file
