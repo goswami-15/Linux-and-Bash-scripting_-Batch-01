@@ -1,0 +1,9 @@
+#echo - printing job
+echo $((5+6))
+#variable - Any input can be stored
+var1=sg
+echo $var1
+my_working_dir=/home/sharmig/Linux_Training_Batch_01/linuxtutorialwork [ #Saving the directory location as a new variable; my_working_dir]
+echo $my_working_dir
+ls -l $my_working_dir
+less $my_working_dir/new_examplefile.txt [#It will show the content of the file new_examplefile.txt which is in this directory location]
