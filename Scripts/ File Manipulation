@@ -3,9 +3,16 @@ touch new_examplefile.txt
 #vi or vim is to view and edit all the contents of a file
 vi new_examplefile.txt
 #Two modes: Insert and Edit mode. In input mode, you may input or enter content into the file. In edit mode, you can move around the file and perform actions such as deleting, copying, searching and replacing, saving etc
+#Copy and paste the following lines here.
+"Hello Everyone!
+Welcome to the Linux Training Program!
+I am Sharmistha Goswami, your trainer for this course.
+I am from Bangladesh.
+Remember, the key to becoming proficient with Linux is practice!
+Best of luck on your journey to mastering Linux."
 #Saving and Exiting
-:q! - discard all changes, since the last save, and exit
-:w - save file but don't exit
+:q! - discard all changes since the last save, and exit
+:w - save the file but don't exit
 :wq - again, save and exit
 #Navigating a file in vi
 Arrow keys - move the cursor around
