@@ -1,0 +1,4 @@
+#uniq - remove duplicates of the content of a file
+uniq -c example_file_for_uniq.txt [#show the counts]
+uniq -u example_file_for_uniq.txt [#only unique files, excluding the repeats]
+uniq -d example_file_for_uniq.txt [#will show the duplicated/repeated files only]
