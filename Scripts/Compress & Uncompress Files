@@ -1,1 +1,7 @@
+# gzip-to compress files
+ gzip SARS-CoV-2.fa
+# gunzip - to decompress files
+ gunzip SARS-CoV-2.fa.gz
+# check file size
+ls -lh 
 
