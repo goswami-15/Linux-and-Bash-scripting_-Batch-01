@@ -6,7 +6,8 @@ pwd
 ls
 ls -l
 ls -a (#List the contents of a directory, including hidden files)
-
+#mkdir-creates a new directory
+mkdir linuxtutorialwork
 #cd -to change the directory
-cd Linux_Training_Batch_01
+cd linuxtutorialwork
 
