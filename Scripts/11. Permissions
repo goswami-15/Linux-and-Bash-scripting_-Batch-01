@@ -12,4 +12,5 @@ others - everyone else who is not in the group or the owner.
 #View Permission:
 ls -l SARS-CoV-2.fa
 #Change Permission:
-chmod 777 SARS-CoV-2.fa
+chmod a+rwx SARS-CoV-2.fa
+chmod ug+rw SARS-CoV-2.fa
