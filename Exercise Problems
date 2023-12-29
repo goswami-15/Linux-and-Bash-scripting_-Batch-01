@@ -1,7 +1,7 @@
-Open a new terminal and make an directory named "Exercise" and navigate into Exercises directory.
+Open a new terminal and make a directory named "Exercise" and navigate into Exercises directory.
 Download Exercise data 
 Extract first 15 lines from the file “HM067744.1_cds_ADQ37314.1_1.fa” and save the output into “output.fa”
 How many fasta files are there in the directory?
 Extract all header lines from the file all.fa
 How many sequences are there in the file all.fa?
-Get the list of countries that had an outbreak in 2022 (Input: outbreak.csv)
+Get the list of countries that had an outbreak in 2022 (Input: outbreak.csv).
