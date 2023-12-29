@@ -2,3 +2,6 @@
 sort example_file_for_sort.txt  [ #By default, it works alphabatically]
 sort -k 2 -n example_file_for_sort.txt [#works in Ascending order]
 sort -k 2 -n -r example_file_for_sort.txt [#works in Descending order]
+
+Task :
+Sort the given file for Candida albicans cultured at different pH conditions in descending order. 
