@@ -1,0 +1,7 @@
+Open a new terminal and navigate into Exercises directory.
+Extract first 15 lines from the file “HM067744.1_cds_ADQ37314.1_1.fa” and save the output into “output.fa”
+How many fasta files are there in the directory?
+Extract all header lines from the file all.fa
+How many sequences are there in the file all.fa?
+Get the list of countries (excluding multi country outbreaks) that had an outbreak in 2022 (Input: outbreak.csv)
+Find the number of outbreaks (exclude multi country outbreaks using invert match grep (-v)) in each month of 2022.
