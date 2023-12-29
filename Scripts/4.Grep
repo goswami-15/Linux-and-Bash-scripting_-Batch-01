@@ -9,3 +9,4 @@ grep "Bangladesh" my_edits.txt > Bangladesh.txt
 3. 	Delete the folder and create the folder again.
 4. 	Create a sub-folder named “test1” inside a sub-folder named “test” inside the folder “Practice.”
 5. 	Make a list of items inside each folder
+6.  Delete this folder again.
