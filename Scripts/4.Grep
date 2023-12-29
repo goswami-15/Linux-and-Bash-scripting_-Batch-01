@@ -2,3 +2,10 @@
  grep "Bangladesh" my_edits.txt
 #> is to redirect the contents or output of an operation
 grep "Bangladesh" my_edits.txt > Bangladesh.txt
+
+#Tasks for all:
+1. Check your current location/ directory in the system.
+2. 	Create a new folder named “Practice”.
+3. 	Delete the folder and create the folder again.
+4. 	Create a sub-folder named “test1” inside a sub-folder named “test” inside the folder “Practice.”
+5. 	Make a list of items inside each folder
