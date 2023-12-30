@@ -9,7 +9,7 @@ echo Hello World!
 chmod +x myscript.sh [+x gives the owner permission to execute]
 #run the script from the terminal. 
 ./myscript.sh
-
+[dot forward slash (./) means we're using the relative path. This tells the system the file is in our current working directory.]
 *****************************************************************************************************
 #Setting Variables
 #Variables are important parts of programming. Variables store data to be used later in the script.
