@@ -21,5 +21,10 @@ echo “My name is $name. My gender is $gender. I’m $age years old.
 
 "
 #execute this script
+#AnotherOne
+#!/bin/bash
+myvariable=Hello
+anothervar=Fred
+echo $myvariable $anothervar
 
 *******************************************************************************************************
