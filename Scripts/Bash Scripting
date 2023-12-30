@@ -7,3 +7,19 @@ echo Hello World!
 chmod +x myscript.sh [+x gives the owner permission to execute]
 #run the script from the terminal. 
 ./myscript.sh
+
+*****************************************************************************************************
+#Setting Variables
+#Variables are important parts of programming. Variables store data to be used later in the script.
+#write down the following lines in a .sh file and give it a name. Could you make it executable?
+"
+#!/bin/bash
+name="K"
+gender=x
+age=y
+echo “My name is $name. My gender is $gender. I’m $age years old.
+
+"
+#execute this script
+
+*******************************************************************************************************
