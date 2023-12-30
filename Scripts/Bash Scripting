@@ -92,7 +92,25 @@ echo "Grade - D"
 else
 echo "Grade - F"
 fi
+***************************************************************************************************
+#Basic Arithmetic Scripting
+#!/bin/bash
+# Basic arithmetic using double parentheses
 
+# Addition
+a=$((4 + 5))
+echo $a
+
+
+# Addition with a variable
+b=$((a + 3))
+echo $b
+
+
+# Multiplication
+a=$((4 * 5))
+echo $a
+***************************************************************************************************
 
 
 
