@@ -1,3 +1,5 @@
+Bash scripting is a powerful way to automate tasks that you need to execute on a computer. Put simply, a Bash script is just a collection of Bash commands which are kept in a text file.
+***************************************************************************************************************************************8
 vi myscript.sh
 #write down the following lines to this file
 "
