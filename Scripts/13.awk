@@ -10,3 +10,5 @@ awk '{print $3+2}' example_file_for_awk.txt
 #awk conditions
 awk '$2>2 && $3>4 {print}' example_file_for_awk.txt
 awk '$2>2 || $3>4 {print}' example_file_for_awk.txt
+awk -F"," '{ print $2 }' file.csv
+awk -F"\t" '{print $1}' tsv file
