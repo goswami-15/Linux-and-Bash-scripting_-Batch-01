@@ -55,7 +55,18 @@ for file in *fa;
     #echo "printing fasta header is done";
 done
 *********************************************************************************************************
+#create while loop
+#!/bin/bash
+x=1
+while (($x <=15));
+    do echo $x;
+    x=$(($x+2));
+done
 
-
+x=1
+while (($x <=6));
+    do echo $x;
+    x=$(($x+1));
+done
 
 
