@@ -28,3 +28,16 @@ anothervar=Fred
 echo $myvariable $anothervar
 
 *******************************************************************************************************
+#User_input_option
+#If we would like to ask the user for input, then we use a command called read. This command takes the input and saves it into a variable.
+#create a .sh and write down the following lines.
+#!/bin/bash
+# Ask the user for their name
+echo Hello, who am I talking to?
+read varname
+echo It\'s nice to meet you $varname
+
+#Please go ahead and execute this script from your terminal after making it executable.
+********************************************************************************************************
+
+
